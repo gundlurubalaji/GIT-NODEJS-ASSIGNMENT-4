@@ -1,0 +1,10 @@
+GET http://localhost:3000/home
+
+
+###
+POST http://localhost:3000/add
+
+{
+    "num1":"500",
+    "num2":"50"
+}
